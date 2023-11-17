@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pyramiduino-rescue")(type "KiCad")(uri "${KIPRJMOD}/Pyramiduino-rescue.kicad_sym")(options "")(descr ""))
+)

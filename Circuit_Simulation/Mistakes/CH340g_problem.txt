@@ -1,0 +1,4 @@
+- The ch340g chip supports 5V and 3.3V operation
+- To operate on 5V it needs 4700pF or 0.01 uF decoupling capacitor to be connect
+  which I haven't connected 
+- Because of which chip might got burnt 

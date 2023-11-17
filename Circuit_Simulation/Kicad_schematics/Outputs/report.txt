@@ -1,0 +1,3 @@
+Exported 'D:\DOCUMENTS\SANKET\SpyD\Circuit_Simulation\Kicad_schematics\Outputs\arduino_8-F_Cu.svg'.
+Exported 'D:\DOCUMENTS\SANKET\SpyD\Circuit_Simulation\Kicad_schematics\Outputs\arduino_8-F_Adhesive.svg'.
+Exported 'D:\DOCUMENTS\SANKET\SpyD\Circuit_Simulation\Kicad_schematics\Outputs\arduino_8-F_Silkscreen.svg'.
